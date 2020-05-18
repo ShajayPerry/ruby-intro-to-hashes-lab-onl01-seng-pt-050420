@@ -14,7 +14,7 @@ def monopoly
   monopoly[:railroads] == {}
 end 
   
-monopoly
+monopoly[:railroads]
 
 
 def monopoly_with_second_tier
